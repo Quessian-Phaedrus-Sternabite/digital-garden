@@ -16,7 +16,9 @@ The links work, but currently, **file viewing does not.**
 - [[Portfolio 1]]
 - More will come later
 
-Please direct any complaints to the spam folder of kelley.ianscott@gmail.com
+Please direct any complaints to the spam folder of kelley.ianscott@gmail.com  
+
+
 If, however, your name starts with E and ends with Ldrige (Elijah Jerldridge excluded), I will be happy to take questions at ikelley5908@student.rcschools.net
 
 # Enjoy the portfolio!
