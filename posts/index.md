@@ -4,7 +4,12 @@
 
 #### An APUSH Notebook by Ian Kelley, 2023
 
-The links work, but currently, **file viewing does not.** ~~(fixing as of 23:09)~~ ~~(Fixed as of 23:43)~~ ~~(Fixed for real at 00:01)~~ (DOESNT SUPPORT PDFs????????????? 1:19) 
+The links work, but currently, **file viewing does not.** 
+~~(fixing as of 23:09)~~ 
+~~(Fixed as of 23:43)~~ 
+~~(Fixed for real at 00:01)~~
+~~(DOESNT SUPPORT PDFs????????????? 00:30)~~ 
+(Checked and actually really working at 1:31)
 
 #### This took waaaaaaaaaaaay too much effort
 

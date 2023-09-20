@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "rm -rf graph-data.json && next dev",
+    "dev": "del /q graph-data.json && next dev",
     "build": "rm -rf /q graph-data.json && next build",
     "start": "next start",
     "deploy": "yarn build && git add . && git commit -m '...' && git push"

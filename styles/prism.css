@@ -1,13 +1,13 @@
 /* PrismJS 1.28.0
 https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript */
 pre {
-    background-color: #f5f2f0
+    background-color: #2E3440
 }
 
 code[class*=language-], pre[class*=language-] {
-    color: #000;
+    color: #8c9aa7;
     background: 0 0;
-    text-shadow: 0 1px #fff;
+    text-shadow: 0 1px #2E3440;
     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
     font-size: 1em;
     text-align: left;
@@ -48,7 +48,7 @@ pre[class*=language-] {
 }
 
 :not(pre) > code[class*=language-], pre[class*=language-] {
-    background: #f5f2f0
+    background: #2E3440
 }
 
 :not(pre) > code[class*=language-] {
