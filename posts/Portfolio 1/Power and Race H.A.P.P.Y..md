@@ -5,7 +5,7 @@ period:
   - "2"
 portfolio: 1
 ---
-
+# Power and Race HAPPY
 H - The man shown is The Second Lord Baltimore Cecilius (Cecil) Calvert. His father had applied for a charter to settle Maryland earlier, thought it wasn't approved until 1632, after his death. As a result, Cecil became the Lord Proprietor of Maryland, and was in charge of the colony. The photo shows him in 1670 or so holding a map of Maryland (wherein he never actually visited), with his grandson and heir apparent by his side. In the background, a slave was shown to depict his high wealth and social status.
 
 A - This would have been intended for other nobility, as evidenced by the slave being shown to brag about wealth. Additionally, he's holding a map of Maryland, demonstrating his accomplishments and adding an air of adventure.

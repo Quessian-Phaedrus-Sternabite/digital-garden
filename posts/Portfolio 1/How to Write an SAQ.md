@@ -4,7 +4,7 @@ tags:
 portfolio: 1
 ---
 
-### **SAQ** - Short answer question
+# **SAQ** - Short Answer Question Guide
 #### Stimuli-Based SAQ
 - Part A, B, and C
 - Stimuli (photo, text, etc.) along with the question
