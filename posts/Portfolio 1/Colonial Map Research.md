@@ -7,6 +7,6 @@ portfolio: 1
 ---
 # Colonial Map Research
 
-Now possible! ![[map.jepg]]
+Now possible! ![[map.jpeg]]
 
 Next in Portfolio 1: [[How to Write an SAQ]]
